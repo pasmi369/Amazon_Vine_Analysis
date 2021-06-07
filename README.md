@@ -32,10 +32,10 @@ percentage_5_stars.
 
 Below are the Results from SQL Queries:
 
-![review_table](./resources/review_id_table.png)
-![products_table](./resources/products_table.png)
-![customers_table](./resources/customers_table.png)
-![vine_table](./resources/vine_table.png)
+![review_table](./Resources/review_id_table.png)
+![products_table](./Resources/products_table.png)
+![customers_table](./Resources/customers_table.png)
+![vine_table](./Resources/vine_table.png)
 
 ## Summary
 After looking that the results, I would conclude that there is a positivity bias for reviews in the Vine program:
