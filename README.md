@@ -20,9 +20,9 @@ total_reviews.
   2. How many Vine reviews were 5 stars_rating? How many non-Vine reviews were 5 stars_rating?
      - There were 48 5-star vine reviews and 15663 5-star non-vine reviews for a total of 15,711 5-star reviews.
 5_star_reviews.
-![helpful_vine_5](./Resources/helpful_vine_5.png)
-![helpful_vine_paid_5](./Resources/helpful_vine_paid_5.png)
-![helpful_vine_unpaid_5](./Resources/helpful_vine_unpaid_5.png)
+![helpful_vine_5](./Resources/helpful_vine_5_df.png)
+![helpful_vine_paid_5](./Resources/helpful_vine_paid_5_df.png)
+![helpful_vine_unpaid_5](./Resources/helpful_vine_unpaid_5_df.png)
 
   3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
      - 51.06% of paid reviews are 5-stars and 38.7% of unpaid reveiws are 5-stars.
