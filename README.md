@@ -13,28 +13,38 @@ During this analysis I wanted to answer a few key questions.
 total_reviews.
 
 ![helpful_vine_df](./Resources/helpful_vine_df.png)
+
 ![helpful_vine_paid_df](./Resources/helpful_vine_paid_df.png)
+
 ![helpful_vine_unpaid_df](./Resources/helpful_vine_unpaid_df.png)
 
 
   2. How many Vine reviews were 5 stars_rating? How many non-Vine reviews were 5 stars_rating?
      - There were 48 5-star vine reviews and 15663 5-star non-vine reviews for a total of 15,711 5-star reviews.
 5_star_reviews.
+
 ![helpful_vine_5](./Resources/helpful_vine_5_df.png)
+
 ![helpful_vine_paid_5](./Resources/helpful_vine_paid_5_df.png)
+
 ![helpful_vine_unpaid_5](./Resources/helpful_vine_unpaid_5_df.png)
 
   3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
      - 51.06% of paid reviews are 5-stars and 38.7% of unpaid reveiws are 5-stars.
 percentage_5_stars.
+
 ![percentage_paid](./Resources/percentage_paid_5.png)
+
 ![percentage_unpaid](./Resources/percentage_unpaid_5.png)
 
 Below are the Results from SQL Queries:
 
 ![review_table](./Resources/review_id_table.png)
+
 ![products_table](./Resources/products_table.png)
+
 ![customers_table](./Resources/customers_table.png)
+
 ![vine_table](./Resources/vine_table.png)
 
 ## Summary
